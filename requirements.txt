@@ -1,0 +1,5 @@
+telebot
+kvsqlite
+requests
+beautifulsoup4
+schedule
